@@ -1,0 +1,16 @@
+# Tested target: Python 3.11
+
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-openai==0.2.6
+langchain-huggingface==0.1.2
+langchain-chroma==0.1.4
+langchain-text-splitters==0.3.2
+chromadb==0.5.20
+sentence-transformers==3.3.1
+pypdf==5.1.0
+streamlit==1.40.1
+python-dotenv==1.0.1
+tiktoken==0.8.0
+numpy==1.26.4
+pandas==2.2.3
